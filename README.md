@@ -1,5 +1,5 @@
 ### Research Interest
-Climate mitigation and adaptation: renewable energy technologies, energy storage solutions, CCS, nature-based solutions
+Climate mitigation and adaptation: renewable energy technologies, energy storage solutions, carbon capture and storage (CCS), nature-based solutions
 
 ### Skills
 Python, GIS, geology
