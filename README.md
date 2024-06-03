@@ -22,8 +22,8 @@ Python, GIS, geology
 - Geology and Epithermal High Sulphidation Signature of Central Sekotong, West Lombok, West Nusa Tenggara (2015)
 
 ### Honours and Awards
-- LPDP (Indonesia Endowment Fund for Education) Batch 2 2023 Awardee (PK-229)
-- Erasmus Mundus Scholarship Recipient 2023
+- LPDP (Indonesia Endowment Fund for Education) Awardee (PK-229)
+- Erasmus Mundus Scholarship Recipient (2023)
 - 1st Place Winner in Student Paper Presentation: Geology Total Action, hosted by UPN Veteran Yogyakarta (2016)
 - 1st Runner-Up in Volcanic-geological Mapping Competition, hosted by STTNas Yogyakarta (2015)
 - 1st Runner-Up in SM-IAGI Universitas Padjadjaran Smart Competition (2013)
