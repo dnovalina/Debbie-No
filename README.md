@@ -1,12 +1,12 @@
 ### Research Interest
-Climate mitigation and adaptation: renewable energy technologies, energy storage solutions, carbon capture and storage (CCS), nature-based solutions
+Climate mitigation and adaptation: renewable energy technologies, energy storage solutions, carbon capture and storage (CCS), nature-based solutions.
 
 ### Skills
 Python, GIS, geology
 
 ### Education
-S.T. - Bachelor in Geological Engineering, Universitas Padjadjaran, Indonesia (cum laude, with honours)
-MSc (Cand) - Applied Earth Sciences, Delft University of Technology, The Netherlands
+- S.T. : Bachelor in Geological Engineering, Universitas Padjadjaran, Indonesia (cum laude, with honours)
+- MSc (Cand) : Applied Earth Sciences, Delft University of Technology, The Netherlands
 
 ### Work Experiences
 - PT. Solusi Bangun Beton @ Jakarta, Indonesia
