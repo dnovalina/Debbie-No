@@ -1,5 +1,12 @@
 title: Debbie No
-logo: https://github.com/dnovalina/Debbie-No/blob/ba155553643350f7579c5e9da2e530dbd175ce7b/img/photo.jpg
-show_downloads: true
-#description: text below image
+
+author: debbieno
+
+#logo: https://github.com/dnovalina/Debbie-No/blob/ba155553643350f7579c5e9da2e530dbd175ce7b/img/photo.jpg
+
+avatar: "/assets/img/photo.jpg"
+
+round-avatar: true
+#show_downloads: true
+
 theme: jekyll-theme-minimal
